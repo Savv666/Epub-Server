@@ -12,7 +12,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-22T22:41:11.446945+00:00",
-    "last_updated": "2026-08-13T04:20:37.859551+00:00",
+    "last_updated": "2026-08-14T04:18:48.830607+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -105,7 +105,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:20:37.859585+00:00"
+        "updated_at": "2026-08-14T04:18:48.830640+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -125,7 +125,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-22T22:49:30.822181+00:00",
-    "last_updated": "2026-08-13T04:20:38.406855+00:00",
+    "last_updated": "2026-08-14T04:18:49.465819+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -218,7 +218,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:20:38.406889+00:00"
+        "updated_at": "2026-08-14T04:18:49.465843+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -230,15 +230,15 @@
     "slug": "emperors-domination",
     "site": "NovelFull",
     "cover": "covers/emperors-domination.webp",
-    "chapters": 1027,
-    "source_url": "https://novelfull.com/emperors-domination/chapter-1018-meeting-the-middle-continent-princess-again.html",
-    "next_url": "https://novelfull.com/emperors-domination/chapter-1028-south-emperor.html",
-    "last_chapter_url": "https://novelfull.com/emperors-domination/chapter-1027-buddhist-debate.html",
-    "last_chapter_number": 1027,
+    "chapters": 1037,
+    "source_url": "https://novelfull.com/emperors-domination/chapter-1028-south-emperor.html",
+    "next_url": "https://novelfull.com/emperors-domination/chapter-1038-vedas-vajra.html",
+    "last_chapter_url": "https://novelfull.com/emperors-domination/chapter-1037-mythical-immortal-monarch.html",
+    "last_chapter_number": 1037,
     "status": "Built",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T09:49:46.079805+00:00",
-    "last_updated": "2026-08-13T04:20:55.348894+00:00",
+    "last_updated": "2026-08-14T04:19:07.401236+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -887,13 +887,21 @@
         "url": "epubs/emperors-domination_ch1018-1027.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:20:55.348859+00:00"
+      },
+      {
+        "label": "Chapters 1028-1037",
+        "start": 1028,
+        "end": 1037,
+        "url": "epubs/emperors-domination_ch1028-1037.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:19:07.401207+00:00"
       }
     ],
-    "last_successful_source_url": "https://novelfull.com/emperors-domination/chapter-1027-buddhist-debate.html",
+    "last_successful_source_url": "https://novelfull.com/emperors-domination/chapter-1037-mythical-immortal-monarch.html",
     "last_successful_site": "NovelFull",
     "progress_state": "available",
     "progress_reason": "",
-    "preferred_source_url": "https://novelfull.com/emperors-domination/chapter-1028-south-emperor.html",
+    "preferred_source_url": "https://novelfull.com/emperors-domination/chapter-1038-vedas-vajra.html",
     "preferred_engine": "Auto",
     "source_history": [
       {
@@ -1588,6 +1596,15 @@
         "used_until_chapter": 1027,
         "status": "success",
         "updated_at": "2026-08-13T04:20:55.348900+00:00"
+      },
+      {
+        "site": "NovelFull",
+        "url": "https://novelfull.com/emperors-domination/chapter-1028-south-emperor.html",
+        "engine": "Auto",
+        "used_from_chapter": 1028,
+        "used_until_chapter": 1037,
+        "status": "success",
+        "updated_at": "2026-08-14T04:19:07.401241+00:00"
       }
     ]
   },
@@ -1604,7 +1621,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:13:14.460633+00:00",
-    "last_updated": "2026-08-13T04:20:56.864029+00:00",
+    "last_updated": "2026-08-14T04:19:07.740671+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -1697,7 +1714,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:20:56.864062+00:00"
+        "updated_at": "2026-08-14T04:19:07.740692+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -1717,7 +1734,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T09:50:06.909158+00:00",
-    "last_updated": "2026-08-13T04:20:57.384077+00:00",
+    "last_updated": "2026-08-14T04:19:08.702106+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -1810,7 +1827,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:20:57.384109+00:00"
+        "updated_at": "2026-08-14T04:19:08.702134+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -1822,15 +1839,15 @@
     "slug": "martial-peak",
     "site": "NovelFull",
     "cover": "covers/martial-peak.webp",
-    "chapters": 780,
-    "source_url": "https://novelfull.com/martial-peak/chapter-771-beyond-redemption.html",
-    "next_url": "https://novelfull.com/martial-peak/chapter-781-death-arena.html",
-    "last_chapter_url": "https://novelfull.com/martial-peak/chapter-780-test.html",
-    "last_chapter_number": 780,
+    "chapters": 790,
+    "source_url": "https://novelfull.com/martial-peak/chapter-781-death-arena.html",
+    "next_url": "https://novelfull.com/martial-peak/chapter-791-forcing-me-will-only-make-me-angry.html",
+    "last_chapter_url": "https://novelfull.com/martial-peak/chapter-790-great-elder-xu-hui.html",
+    "last_chapter_number": 790,
     "status": "Built",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-22T10:37:30.142078+00:00",
-    "last_updated": "2026-08-13T04:21:14.323724+00:00",
+    "last_updated": "2026-08-14T04:19:26.589398+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -2455,13 +2472,21 @@
         "url": "epubs/martial-peak_ch771-780.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:21:14.323682+00:00"
+      },
+      {
+        "label": "Chapters 781-790",
+        "start": 781,
+        "end": 790,
+        "url": "epubs/martial-peak_ch781-790.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:19:26.589366+00:00"
       }
     ],
-    "last_successful_source_url": "https://novelfull.com/martial-peak/chapter-780-test.html",
+    "last_successful_source_url": "https://novelfull.com/martial-peak/chapter-790-great-elder-xu-hui.html",
     "last_successful_site": "NovelFull",
     "progress_state": "available",
     "progress_reason": "",
-    "preferred_source_url": "https://novelfull.com/martial-peak/chapter-781-death-arena.html",
+    "preferred_source_url": "https://novelfull.com/martial-peak/chapter-791-forcing-me-will-only-make-me-angry.html",
     "preferred_engine": "Auto",
     "source_history": [
       {
@@ -3156,6 +3181,15 @@
         "used_until_chapter": 780,
         "status": "success",
         "updated_at": "2026-08-13T04:21:14.323730+00:00"
+      },
+      {
+        "site": "NovelFull",
+        "url": "https://novelfull.com/martial-peak/chapter-781-death-arena.html",
+        "engine": "Auto",
+        "used_from_chapter": 781,
+        "used_until_chapter": 790,
+        "status": "success",
+        "updated_at": "2026-08-14T04:19:26.589403+00:00"
       }
     ]
   },
@@ -3562,7 +3596,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-26T09:25:20.343954+00:00",
-    "last_updated": "2026-08-13T04:21:15.007491+00:00",
+    "last_updated": "2026-08-14T04:19:27.315333+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -3655,7 +3689,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:15.007518+00:00"
+        "updated_at": "2026-08-14T04:19:27.315364+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -3675,7 +3709,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-22T11:25:05.174796+00:00",
-    "last_updated": "2026-08-13T04:21:15.315004+00:00",
+    "last_updated": "2026-08-14T04:19:27.647010+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -3896,7 +3930,7 @@
         "used_from_chapter": 112,
         "used_until_chapter": 111,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:15.315037+00:00"
+        "updated_at": "2026-08-14T04:19:27.647041+00:00"
       }
     ],
     "locked_chapter_number": 112,
@@ -3908,14 +3942,14 @@
     "slug": "otherworld-therapy",
     "site": "RoyalRoad",
     "cover": "covers/otherworld-therapy.png",
-    "chapters": 141,
+    "chapters": 142,
     "source_url": "https://www.royalroad.com/fiction/142672/otherworld-therapy/chapter/2964082/ch-52-go-to-hell",
     "last_chapter_url": "https://www.royalroad.com/fiction/142672/otherworld-therapy/chapter/2964082/ch-52-go-to-hell",
-    "last_chapter_number": 141,
+    "last_chapter_number": 142,
     "status": "Complete or stopped at source",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:20:50.166703+00:00",
-    "last_updated": "2026-08-13T04:21:16.211993+00:00",
+    "last_updated": "2026-08-14T04:19:28.617730+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -4540,6 +4574,14 @@
         "url": "epubs/otherworld-therapy_ch141-141.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:21:16.211962+00:00"
+      },
+      {
+        "label": "Chapters 142-142",
+        "start": 142,
+        "end": 142,
+        "url": "epubs/otherworld-therapy_ch142-142.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:19:28.617704+00:00"
       }
     ],
     "last_successful_source_url": "https://www.royalroad.com/fiction/142672/otherworld-therapy/chapter/2964082/ch-52-go-to-hell",
@@ -5241,6 +5283,15 @@
         "used_until_chapter": 141,
         "status": "success",
         "updated_at": "2026-08-13T04:21:16.211998+00:00"
+      },
+      {
+        "site": "RoyalRoad",
+        "url": "https://www.royalroad.com/fiction/142672/otherworld-therapy/chapter/2964082/ch-52-go-to-hell",
+        "engine": "Auto",
+        "used_from_chapter": 142,
+        "used_until_chapter": 142,
+        "status": "success",
+        "updated_at": "2026-08-14T04:19:28.617734+00:00"
       }
     ]
   },
@@ -5257,7 +5308,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-22T22:27:14.096397+00:00",
-    "last_updated": "2026-08-13T04:21:16.730289+00:00",
+    "last_updated": "2026-08-14T04:19:30.202135+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -5350,7 +5401,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:16.730320+00:00"
+        "updated_at": "2026-08-14T04:19:30.202168+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -5362,14 +5413,14 @@
     "slug": "sky-pride",
     "site": "RoyalRoad",
     "cover": "covers/sky-pride.png",
-    "chapters": 704,
+    "chapters": 710,
     "source_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3777745/chapter-44--overdue-delivery",
-    "last_chapter_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3804296/chapter-48--the-desperate-ride",
-    "last_chapter_number": 704,
+    "last_chapter_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3808710/chapter-49--when-the-battle-comes-march-forward",
+    "last_chapter_number": 710,
     "status": "Complete or stopped at source",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:21:27.307714+00:00",
-    "last_updated": "2026-08-13T04:21:25.363200+00:00",
+    "last_updated": "2026-08-14T04:19:42.482608+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -5994,13 +6045,21 @@
         "url": "epubs/sky-pride_ch700-704.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:21:25.363169+00:00"
+      },
+      {
+        "label": "Chapters 705-710",
+        "start": 705,
+        "end": 710,
+        "url": "epubs/sky-pride_ch705-710.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:19:42.482584+00:00"
       }
     ],
-    "last_successful_source_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3804296/chapter-48--the-desperate-ride",
+    "last_successful_source_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3808710/chapter-49--when-the-battle-comes-march-forward",
     "last_successful_site": "RoyalRoad",
-    "progress_state": "complete",
+    "progress_state": "available",
     "progress_reason": "",
-    "preferred_source_url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3777745/chapter-44--overdue-delivery",
+    "preferred_source_url": "https://www.royalroad.com/account/login?returnurl=%2Ffiction%2F107917%2Fsky-pride%2Fchapter%2F3808710%2Fchapter-49--when-the-battle-comes-march-forward",
     "preferred_engine": "Auto",
     "source_history": [
       {
@@ -6695,8 +6754,18 @@
         "used_until_chapter": 704,
         "status": "success",
         "updated_at": "2026-08-13T04:21:25.363205+00:00"
+      },
+      {
+        "site": "RoyalRoad",
+        "url": "https://www.royalroad.com/fiction/107917/sky-pride/chapter/3777745/chapter-44--overdue-delivery",
+        "engine": "Auto",
+        "used_from_chapter": 705,
+        "used_until_chapter": 710,
+        "status": "success",
+        "updated_at": "2026-08-14T04:19:42.482612+00:00"
       }
-    ]
+    ],
+    "next_url": "https://www.royalroad.com/account/login?returnurl=%2Ffiction%2F107917%2Fsky-pride%2Fchapter%2F3808710%2Fchapter-49--when-the-battle-comes-march-forward"
   },
   {
     "title": "Star Gate",
@@ -6711,7 +6780,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:12:22.406734+00:00",
-    "last_updated": "2026-08-13T04:21:25.885920+00:00",
+    "last_updated": "2026-08-14T04:19:43.162218+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -6804,7 +6873,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:25.885944+00:00"
+        "updated_at": "2026-08-14T04:19:43.162249+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -6824,7 +6893,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T09:52:05.450395+00:00",
-    "last_updated": "2026-08-13T04:21:26.190052+00:00",
+    "last_updated": "2026-08-14T04:19:43.789095+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -6917,7 +6986,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:26.190074+00:00"
+        "updated_at": "2026-08-14T04:19:43.789125+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -6929,18 +6998,18 @@
     "slug": "starting-as-a-son-in-law-to-establish-an-immortal-family",
     "site": "NovelFull",
     "cover": "covers/starting-as-a-son-in-law-to-establish-an-immortal-family.webp",
-    "chapters": 2480,
-    "source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2461-812-the-second-taoist-body.html",
-    "next_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2471-813-qilin-pattern-9-leaf-sword-grass.html",
-    "last_chapter_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2470-813-qilin-pattern-9-leaf-sword-grass.html",
-    "last_chapter_number": 2480,
+    "chapters": 2490,
+    "source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2471-813-qilin-pattern-9-leaf-sword-grass.html",
+    "next_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2481-815-nascent-soul-nascent-soul-nascent-soul-alliance-hierarch-paul1990-extra-2.html",
+    "last_chapter_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2480-815-nascent-soul-nascent-soul-nascent-soul.html",
+    "last_chapter_number": 2490,
     "status": "Built",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-27T09:08:45.410617+00:00",
-    "last_updated": "2026-08-13T04:21:43.046893+00:00",
+    "last_updated": "2026-08-14T04:20:01.658730+00:00",
     "progress_state": "available",
     "progress_reason": "",
-    "last_successful_source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2470-813-qilin-pattern-9-leaf-sword-grass.html",
+    "last_successful_source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2480-815-nascent-soul-nascent-soul-nascent-soul.html",
     "last_successful_site": "NovelFull",
     "source_history": [
       {
@@ -7651,6 +7720,15 @@
         "used_until_chapter": 2480,
         "status": "success",
         "updated_at": "2026-08-13T04:21:43.046899+00:00"
+      },
+      {
+        "site": "NovelFull",
+        "url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2471-813-qilin-pattern-9-leaf-sword-grass.html",
+        "engine": "Auto",
+        "used_from_chapter": 2481,
+        "used_until_chapter": 2490,
+        "status": "success",
+        "updated_at": "2026-08-14T04:20:01.658735+00:00"
       }
     ],
     "downloads": [
@@ -8281,10 +8359,18 @@
         "url": "epubs/starting-as-a-son-in-law-to-establish-an-immortal-family_ch2471-2480.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:21:43.046860+00:00"
+      },
+      {
+        "label": "Chapters 2481-2490",
+        "start": 2481,
+        "end": 2490,
+        "url": "epubs/starting-as-a-son-in-law-to-establish-an-immortal-family_ch2481-2490.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:20:01.658702+00:00"
       }
     ],
     "cover_updated_at": "2026-05-27T09:11:10.385948+00:00",
-    "preferred_source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2471-813-qilin-pattern-9-leaf-sword-grass.html",
+    "preferred_source_url": "https://novelfull.com/starting-as-a-son-in-law-to-establish-an-immortal-family/chapter-2481-815-nascent-soul-nascent-soul-nascent-soul-alliance-hierarch-paul1990-extra-2.html",
     "preferred_engine": "Auto",
     "last_epub_url": "epubs/starting-as-a-son-in-law-to-establish-an-immortal-family_ch1601-1710_combined.epub"
   },
@@ -8301,7 +8387,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:12:56.948917+00:00",
-    "last_updated": "2026-08-13T04:21:43.643096+00:00",
+    "last_updated": "2026-08-14T04:20:02.296645+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -8394,7 +8480,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:43.643121+00:00"
+        "updated_at": "2026-08-14T04:20:02.296673+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -8414,7 +8500,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:12:39.621918+00:00",
-    "last_updated": "2026-08-13T04:21:44.174835+00:00",
+    "last_updated": "2026-08-14T04:20:02.971590+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -8507,7 +8593,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:44.174863+00:00"
+        "updated_at": "2026-08-14T04:20:02.971621+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -8527,7 +8613,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-26T09:55:27.643985+00:00",
-    "last_updated": "2026-08-13T04:21:44.749244+00:00",
+    "last_updated": "2026-08-14T04:20:03.914742+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -8620,7 +8706,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:44.749274+00:00"
+        "updated_at": "2026-08-14T04:20:03.914773+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -8640,7 +8726,7 @@
     "status": "Partial / locked",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T09:49:25.834258+00:00",
-    "last_updated": "2026-08-13T04:21:45.039400+00:00",
+    "last_updated": "2026-08-14T04:20:04.247706+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -8733,7 +8819,7 @@
         "used_from_chapter": 51,
         "used_until_chapter": 50,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:45.039430+00:00"
+        "updated_at": "2026-08-14T04:20:04.247734+00:00"
       }
     ],
     "locked_chapter_number": 51,
@@ -8753,7 +8839,7 @@
     "status": "Partial / locked",
     "last_mode": "Pattern Scraper",
     "created_at": "2026-05-27T09:12:04.466160+00:00",
-    "last_updated": "2026-08-13T04:21:45.350551+00:00",
+    "last_updated": "2026-08-14T04:20:04.899553+00:00",
     "progress_state": "locked",
     "progress_reason": "log in to continue your adventure",
     "last_successful_source_url": "https://www.wuxiaworld.com/novel/unintended-immortality/ui-chapter-21",
@@ -8800,7 +8886,7 @@
         "used_from_chapter": 151,
         "used_until_chapter": 150,
         "status": "partial_locked",
-        "updated_at": "2026-08-13T04:21:45.350580+00:00"
+        "updated_at": "2026-08-14T04:20:04.899576+00:00"
       }
     ],
     "downloads": [
@@ -8862,14 +8948,14 @@
     "slug": "xianxia-senior-brother-of-a-heavens-favoured",
     "site": "RoyalRoad",
     "cover": "covers/xianxia-senior-brother-of-a-heavens-favoured.png",
-    "chapters": 333,
+    "chapters": 336,
     "source_url": "https://www.royalroad.com/fiction/156131/xianxia-senior-brother-of-a-heavens-favoured/chapter/3712787/271-i-dont-care-about-doors",
     "last_chapter_url": "https://www.royalroad.com/fiction/156131/xianxia-senior-brother-of-a-heavens-favoured/chapter/3752999/281-rewards-and-teaching",
-    "last_chapter_number": 333,
+    "last_chapter_number": 336,
     "status": "Complete or stopped at source",
     "last_mode": "Update All Existing Novels",
     "created_at": "2026-05-20T10:21:46.076353+00:00",
-    "last_updated": "2026-08-13T04:21:50.378005+00:00",
+    "last_updated": "2026-08-14T04:20:10.057677+00:00",
     "downloads": [
       {
         "label": "Chapters 1-10",
@@ -9494,6 +9580,14 @@
         "url": "epubs/xianxia-senior-brother-of-a-heavens-favoured_ch331-333.epub",
         "mode": "Update All Existing Novels",
         "created_at": "2026-08-13T04:21:50.377972+00:00"
+      },
+      {
+        "label": "Chapters 334-336",
+        "start": 334,
+        "end": 336,
+        "url": "epubs/xianxia-senior-brother-of-a-heavens-favoured_ch334-336.epub",
+        "mode": "Update All Existing Novels",
+        "created_at": "2026-08-14T04:20:10.057652+00:00"
       }
     ],
     "last_successful_source_url": "https://www.royalroad.com/fiction/156131/xianxia-senior-brother-of-a-heavens-favoured/chapter/3752999/281-rewards-and-teaching",
@@ -10195,6 +10289,15 @@
         "used_until_chapter": 333,
         "status": "success",
         "updated_at": "2026-08-13T04:21:50.378010+00:00"
+      },
+      {
+        "site": "RoyalRoad",
+        "url": "https://www.royalroad.com/fiction/156131/xianxia-senior-brother-of-a-heavens-favoured/chapter/3712787/271-i-dont-care-about-doors",
+        "engine": "Auto",
+        "used_from_chapter": 334,
+        "used_until_chapter": 336,
+        "status": "success",
+        "updated_at": "2026-08-14T04:20:10.057682+00:00"
       }
     ]
   }
