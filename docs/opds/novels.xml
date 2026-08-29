@@ -2,133 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>https://savv666.github.io/epub-server/opds/novels.xml</id>
   <title>Novels</title>
-  <updated>2026-08-28T14:22:37.954481Z</updated>
+  <updated>2026-08-29T09:04:43.571406Z</updated>
   <link rel="self" href="https://savv666.github.io/epub-server/opds/novels.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="start" href="https://savv666.github.io/epub-server/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>13 Mink Street</title>
     <id>https://savv666.github.io/epub-server/opds/novels/13-mink-street.xml</id>
-    <updated>2026-08-28T14:22:37.954531Z</updated>
+    <updated>2026-08-29T09:04:43.571455Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/13-mink-street.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Beastmaster King</title>
     <id>https://savv666.github.io/epub-server/opds/novels/beastmaster-king.xml</id>
-    <updated>2026-08-28T14:22:37.954543Z</updated>
+    <updated>2026-08-29T09:04:43.571467Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/beastmaster-king.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Emperor’s Domination</title>
     <id>https://savv666.github.io/epub-server/opds/novels/emperors-domination.xml</id>
-    <updated>2026-08-28T14:22:37.954554Z</updated>
+    <updated>2026-08-29T09:04:43.571477Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/emperors-domination.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>First Immortal of the Sword</title>
     <id>https://savv666.github.io/epub-server/opds/novels/first-immortal-of-the-sword.xml</id>
-    <updated>2026-08-28T14:22:37.954564Z</updated>
+    <updated>2026-08-29T09:04:43.571485Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/first-immortal-of-the-sword.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Martial God Asura</title>
     <id>https://savv666.github.io/epub-server/opds/novels/martial-god-asura.xml</id>
-    <updated>2026-08-28T14:22:37.954572Z</updated>
+    <updated>2026-08-29T09:04:43.571493Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/martial-god-asura.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Martial Peak</title>
     <id>https://savv666.github.io/epub-server/opds/novels/martial-peak.xml</id>
-    <updated>2026-08-28T14:22:37.954581Z</updated>
+    <updated>2026-08-29T09:04:43.571502Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/martial-peak.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Mother of Learning</title>
     <id>https://savv666.github.io/epub-server/opds/novels/mother-of-learning.xml</id>
-    <updated>2026-08-28T14:22:37.954589Z</updated>
+    <updated>2026-08-29T09:04:43.571509Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/mother-of-learning.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>My Journey to Immortality Begins with Hunting</title>
     <id>https://savv666.github.io/epub-server/opds/novels/my-journey-to-immortality-begins-with-hunting.xml</id>
-    <updated>2026-08-28T14:22:37.954600Z</updated>
+    <updated>2026-08-29T09:04:43.571521Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/my-journey-to-immortality-begins-with-hunting.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Nine Star Hegemon Body Art</title>
     <id>https://savv666.github.io/epub-server/opds/novels/nine-star-hegemon-body-art.xml</id>
-    <updated>2026-08-28T14:22:37.954610Z</updated>
+    <updated>2026-08-29T09:04:43.571530Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/nine-star-hegemon-body-art.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Otherworld Therapy</title>
     <id>https://savv666.github.io/epub-server/opds/novels/otherworld-therapy.xml</id>
-    <updated>2026-08-28T14:22:37.954619Z</updated>
+    <updated>2026-08-29T09:04:43.571539Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/otherworld-therapy.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Scripture of Days Past</title>
     <id>https://savv666.github.io/epub-server/opds/novels/scripture-of-days-past.xml</id>
-    <updated>2026-08-28T14:22:37.954626Z</updated>
+    <updated>2026-08-29T09:04:43.571547Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/scripture-of-days-past.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Sky Pride</title>
     <id>https://savv666.github.io/epub-server/opds/novels/sky-pride.xml</id>
-    <updated>2026-08-28T14:22:37.954634Z</updated>
+    <updated>2026-08-29T09:04:43.571555Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/sky-pride.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Star Gate</title>
     <id>https://savv666.github.io/epub-server/opds/novels/star-gate.xml</id>
-    <updated>2026-08-28T14:22:37.954642Z</updated>
+    <updated>2026-08-29T09:04:43.571563Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/star-gate.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Star Odyssey</title>
     <id>https://savv666.github.io/epub-server/opds/novels/star-odyssey.xml</id>
-    <updated>2026-08-28T14:22:37.954649Z</updated>
+    <updated>2026-08-29T09:04:43.571570Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/star-odyssey.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Starting as a Son-in-law to Establish an immortal Family</title>
     <id>https://savv666.github.io/epub-server/opds/novels/starting-as-a-son-in-law-to-establish-an-immortal-family.xml</id>
-    <updated>2026-08-28T14:22:37.954657Z</updated>
+    <updated>2026-08-29T09:04:43.571579Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/starting-as-a-son-in-law-to-establish-an-immortal-family.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>The Mirror Legacy</title>
     <id>https://savv666.github.io/epub-server/opds/novels/the-mirror-legacy.xml</id>
-    <updated>2026-08-28T14:22:37.954665Z</updated>
+    <updated>2026-08-29T09:04:43.571586Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/the-mirror-legacy.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>The Prodigies War</title>
     <id>https://savv666.github.io/epub-server/opds/novels/the-prodigies-war.xml</id>
-    <updated>2026-08-28T14:22:37.954672Z</updated>
+    <updated>2026-08-29T09:04:43.571593Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/the-prodigies-war.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>The Sorcerer's Handbook</title>
     <id>https://savv666.github.io/epub-server/opds/novels/the-sorcerer-s-handbook.xml</id>
-    <updated>2026-08-28T14:22:37.954680Z</updated>
+    <updated>2026-08-29T09:04:43.571601Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/the-sorcerer-s-handbook.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Tribulation of Myriad Races</title>
     <id>https://savv666.github.io/epub-server/opds/novels/tribulation-of-myriad-races.xml</id>
-    <updated>2026-08-28T14:22:37.954688Z</updated>
+    <updated>2026-08-29T09:04:43.571608Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/tribulation-of-myriad-races.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Unintended Immortality</title>
     <id>https://savv666.github.io/epub-server/opds/novels/unintended-immortality.xml</id>
-    <updated>2026-08-28T14:22:37.954695Z</updated>
+    <updated>2026-08-29T09:04:43.571615Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/unintended-immortality.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
     <title>Xianxia Senior Brother of a Heavens Favoured</title>
     <id>https://savv666.github.io/epub-server/opds/novels/xianxia-senior-brother-of-a-heavens-favoured.xml</id>
-    <updated>2026-08-28T14:22:37.954703Z</updated>
+    <updated>2026-08-29T09:04:43.571623Z</updated>
     <link rel="subsection" href="https://savv666.github.io/epub-server/opds/novels/xianxia-senior-brother-of-a-heavens-favoured.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
 </feed>
